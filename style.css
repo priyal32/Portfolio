@@ -586,7 +586,7 @@ color:#f1edee;
   /*Contact Info*/
 
   
-  .contact {
+  .Resume {
     background-image: url(images/contactimg.jpeg);
     background-position: 0%;
     background-repeat: no-repeat;
@@ -595,7 +595,7 @@ color:#f1edee;
     padding-left: 17%;
   }
 
-  .contact .title{
+  .Resume .title{
       padding-left: 32%;
       padding-bottom: 1%;
       color: #c3073f;
@@ -606,7 +606,7 @@ color:#f1edee;
 
   
 
-.contact .max-width .contact-content .left embed{
+.Resume .max-width .resume-content .pdf embed{
     border: 0vh;
     scroll-behavior: auto;
     height: 80vh;

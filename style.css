@@ -606,7 +606,7 @@ color:#f1edee;
 
   
 
-.Resume .max-width .resume-content .pdf iframe{
+.Resume .max-width .resume-content .pdf embed{
     border: 0vh;
     scroll-behavior: auto;
     height: 80vh;
